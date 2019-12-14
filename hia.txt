@@ -1,1 +1,5 @@
+<<<<<<< .mine
 111bbb
+=======
+111aaabbbbb
+>>>>>>> .theirs
